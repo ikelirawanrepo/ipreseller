@@ -1,7 +1,7 @@
 ### USERNAME EXPIRED IPVPS
 # Format expired tahun-bulan-tanggal
 #CONTOH
-### MyVPSSG lifetime 159.223.49.58
-### MyVPSNDIA lifetime 194.238.18.240
-### Trial_docker lifetime 108.136.167.103
+### MyVPSSG lifetime 159.223.49.58 admin
+### MyVPSNDIA lifetime 194.238.18.240 admin
+### Trial_docker lifetime 108.136.167.103 admin
 ### MyVPNSG1 lifetime 188.166.208.80 admin
